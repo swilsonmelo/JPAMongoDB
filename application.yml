@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://swilsonmelo:swilsonDB@ieti-8cf4x.mongodb.net/test?retryWrites=true&w=majority
